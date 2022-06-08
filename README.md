@@ -1,4 +1,7 @@
 
 ## Laravel Livewire Start Admin Project
 
-In update
+Laravel Start package with Livewire and Tailwind
+Login/Register
+Example Page
+Api
